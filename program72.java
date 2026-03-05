@@ -1,42 +1,61 @@
+////////////////////////////////////////////////////////////////////////////////////////////////
+//
+//  File name :     Program72.java
+//  Description :   Displays all factors of the given number by
+//                  iterating only up to half of the number.
+//  Author :        Varad Nitin Muley
+//  Date :          02/03/2026
+//
+////////////////////////////////////////////////////////////////////////////////////////////////
+
 /////////////////////////////////////////////////////////////////
 //
-//  Class Name : program72
-//  Description : It is used to display factors of a number (up to iNo/2)
-//  Author :      Varad Nitin Muley
-//  Date :        09/10/2025
+//  Required Header files
 //
 /////////////////////////////////////////////////////////////////
 
-public class program72
+import java.util.*;
+
+/////////////////////////////////////////////////////////////////
+//
+//  Function Name : main
+//  Description :   Entry point of the application. It finds and
+//                  displays all factors of the given number.
+//  Input :         Integer
+//  Output :        Displays factors of the number
+//  Author :        Varad Nitin Muley
+//  Date :          02/03/2026
+//
+/////////////////////////////////////////////////////////////////
+
+public class program72 
 {
-    /////////////////////////////////////////////////////////////////
-    //
-    //  Entry point function for the application
-    //
-    /////////////////////////////////////////////////////////////////
-
-    public static void main(String A[])
+    public static void main (String A[])
     {
-        int iNo = 12;                               // Fixed input number
-        int i = 0;                                 // Loop counter
+        int iNo = 12;
+        int i = 0 ; 
 
-        for(i = 1; i <= (iNo/2); i++)              // Loop from 1 to half of iNo
+        for(i = 1 ; i<= (iNo/2) ; i++)
         {
-            if((iNo % i) == 0)                     // Check factor condition
+            if((iNo % i) == 0)
             {
-                System.out.println(i);             // Print factor
+                System.out.println(i);
             }
         }
-    }   // End of main
-}   // End of program72
+    }
+}
 
 /////////////////////////////////////////////////////////////////
 //
-//  Testcases succesfully handaled by the application
+//  Testcases successfully handled by the application
 //
-//  Input  : 12     Output : 1 2 3 4 6
-//  Input  : 10     Output : 1 2 5
-//  Input  : 15     Output : 1 3 5
+//  Input : 12
+//  Output : 1 2 3 4 6
+//
+//  Input : 10
+//  Output : 1 2 5
+//
+//  Input : 7
+//  Output : 1
 //
 /////////////////////////////////////////////////////////////////
-
