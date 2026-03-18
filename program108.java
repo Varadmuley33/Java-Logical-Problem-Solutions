@@ -1,113 +1,90 @@
-
-////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //  File name :     program108.java
-//  Description :   To return sum of elements of array 
-//  Author :        Pallavi Sable
-//  Date :          7/11/2025
+//  Description :   Design the class using OOP design
+//  Author :        Varad Nitin Muley
+//  Date :          07/11/2025
 //
-////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////
 
-////////////////////////////////////////////////////////////
+
+
+
+/////////////////////////////////////////////////////////////////
+// 
+//  Required Header files
 //
-//  REQUIRED HEADER FILES
-//
-////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////
 
 import java.util.*;
 
-////////////////////////////////////////////////////////////
-//
-//  Function Name : Summation
-//  Description :   returns sum of elements of array
-//  Intput :        int
-//  Output :        int
-//  Author :        Pallavi Sable
-//  Date :          07/11/2025
-//  Time Complexity:O(N)
-//               
-////////////////////////////////////////////////////////////
 
 class ArrayX
 {
     private int Arr[];
-    private int iSize;                           //Characteristics
+    private int iSize;
 
-    public ArrayX(int iNo)
+    public ArrayX(int no)
     {
-        System.out.println("Inside Constructor");
-        iSize = iNo;
-        Arr = new int[iSize];                   //allocated resource
-        
+        System.out.println("Inside constructor");
+        iSize = no ; 
+        Arr = new int[iSize];
     }
-    public void Accept()                        //To take input
+
+    public void Accept()
     {
-        int iCnt = 0;
         Scanner sobj = new Scanner(System.in);
-        System.out.println("Enter the elements of array:");
-        
-        for(iCnt = 0 ; iCnt < Arr.length ; iCnt++)
-        {
-            Arr[iCnt] = sobj.nextInt();
-        }
+        int i = 0 ;
 
-    }
-    public void Display()                       //To Display Output
+        System.out.println("Enter the elements of Array : ");
+
+        for(i = 0 ; i < Arr.length ; i++)
+        {
+            Arr[i] = sobj.nextInt();
+        }
+    }  // End of ArrayX class                                                                                           
+
+
+
+    public void Display()
     {
-        System.out.println("Elements of the array are:");
-        int iCnt = 0;
-        for(iCnt = 0 ; iCnt < Arr.length ; iCnt++)
-        {
-            System.out.println(Arr[iCnt]);
-        }
+        System.out.println("Elements of the array are ");
+        int i = 0 ;
 
+        for(i = 0 ; i < Arr.length ; i++)
+        {
+            System.out.println(Arr[i]);
+        }
     }
+
     public float Average()
     {
-        
-        int iCnt = 0;
-        int iSum = 0;
-        for(iCnt = 0; iCnt<Arr.length; iCnt++)
+        int i = 0 ; 
+        int iSum = 0 ;
+
+        for(i = 0 ; i< Arr.length ; i++)
         {
-            iSum = iSum + Arr[iCnt];
+            iSum = iSum + Arr[i];
         }
-        return (iSum/iSize);
+
+        return (iSum / iSize);
     }
-}//End of ArrayX class
+}
 
-
-////////////////////////////////////////////////////////////
-//
-//  ENTRY POINT FUNCTION FOR THE APPLICATION
-//
-////////////////////////////////////////////////////////////
-
-class program108
+//Entry point function
+public class program108
 {
     public static void main (String A[])
     {
-        float fRet =0.0f;
+        float fRet = 0.0f;
 
         ArrayX aobj1 = new ArrayX(5);
         aobj1.Accept();
         aobj1.Display();
-
         fRet = aobj1.Average();
-        System.out.println("Averege of elements is "+fRet);
-        
+
+        System.out.println("Average if : " + fRet);
+
     }
-}
-
-
-//End of main
-
-////////////////////////////////////////////////////////////
-//
-// Test cases succesfully handled by the application
-// Input1 : 5       Output : 
-// Input1 : 15      Output : false
-// Input1 : -28     Output : true
-// Input1 : 11      Output : false
-// Input1 : 24      Output : false
-//
-////////////////////////////////////////////////////////////
+}// End of main 
+   

@@ -1,4 +1,19 @@
+////////////////////////////////////////////////////////////////////////////////////////////////
+//
+//  File name :     program101.java
+//  Description :   Take input from user
+//  Author :        Varad Nitin Muley
+//  Date :          07/11/2025
+//
+////////////////////////////////////////////////////////////////////////////////////////////////
 
+
+
+/////////////////////////////////////////////////////////////////
+// 
+//  Required Header files
+//
+/////////////////////////////////////////////////////////////////
 
 import java.util.*;
 
@@ -6,50 +21,50 @@ class ArrayX
 {
     public void Display(int Brr[])
     {
-        int iCnt = 0;
-        System.out.println("Elements of array are");
-        for(iCnt = 0; iCnt<Brr.length; iCnt++)
+        int i = 0 ;
+        System.out.println("Elements of the array are : ");
+        
+        for(i = 0 ; i < Brr.length ; i++)
         {
-            System.out.println(Brr[iCnt]);
+            System.out.println(Brr[i]);
         }
     }
-    public int CountEven(int Brr[])
+
+    public int CountEven (int Brr[])
     {
-        int iCnt = 0;
-        int iCount = 0;
-        for(iCnt = 0 ; iCnt < Brr.length ; iCnt++)
+        int i = 0 , iCount = 0 ;
+
+        for(i = 0 ; i< Brr.length ; i++)
         {
-            if((Brr[iCnt]% 2) == 0)
+            if((Brr[i] % 2 ) == 0 )
             {
                 iCount++;
             }
         }
         return iCount;
     }
+}//End Of Arrayx
 
-}
 
-
-class program101
+//Entry point function
+public class program101
 {
-    public static void main(String A[])
+    public static void main (String A[])
     {
-        int iCnt = 0;
-        int iSize = 0;
-        int iRet = 0;
 
         Scanner sobj = new Scanner(System.in);
-        System.out.println("Enter the Size of array");
+
+        int iSize = 0 ,i = 0 , iRet = 0 ;
+
+        System.out.println("Enter the size of array : ");
         iSize = sobj.nextInt();
 
-        int Arr[] = new int[iSize];
+        int Arr [] = new int[iSize];
+        System.out.println("Enter the elements : ");
 
-        System.out.println("Enter the elements");
-
-        for(iCnt = 0 ; iCnt < Arr.length ; iCnt++)
+        for ( i = 0 ; i < Arr.length; i++)
         {
-            Arr[iCnt] = sobj.nextInt();
-            
+            Arr[i] = sobj.nextInt();
         }
 
         ArrayX aobj = new ArrayX();
@@ -57,14 +72,6 @@ class program101
 
         iRet = aobj.CountEven(Arr);
 
-        System.out.println("Number of even elements :" +iRet);
-        
-
-        aobj = null;
-        Arr = null;
-        sobj = null;
-
+        System.out.println("Even elements are : "+iRet);
     }
-}
-
-
+}// End of main 

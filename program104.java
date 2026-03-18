@@ -1,96 +1,68 @@
+////////////////////////////////////////////////////////////////////////////////////////////////
+//
+//  File name :     program104.java
+//  Description :   Design the class using OOP design
+//  Author :        Varad Nitin Muley
+//  Date :          07/11/2025
+//
+////////////////////////////////////////////////////////////////////////////////////////////////
 
-////////////////////////////////////////////////////////////
-//
-//  File name :     program102.java
-//  Description :   To return sum of elemts of array 
-//  Author :        Pallavi Sable
-//  Date :          7/11/2025
-//
-////////////////////////////////////////////////////////////
 
-////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////
+// 
+//  Required Header files
 //
-//  REQUIRED HEADER FILES
-//
-////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////
 
 import java.util.*;
 
-////////////////////////////////////////////////////////////
-//
-//  Function Name : Summation
-//  Description :   returns sum of elements of array
-//  Intput :        int
-//  Output :        int
-//  Author :        Pallavi Sable
-//  Date :          07/11/2025
-//  Time Complexity:O(N)
-//               
-////////////////////////////////////////////////////////////
 
 class ArrayX
 {
     public int Arr[];
-    public int iSize;                           //Characteristics
+    public int iSize;
 
-    public ArrayX(int iNo)
+    public ArrayX(int no)
     {
-        System.out.println("Inside Constructor");
-        iSize = iNo;
-        Arr = new int[iSize];                   //allocated resource
-        
+        System.out.println("Inside constructor");
+        iSize = no ; 
+        Arr = new int[iSize];
     }
-    public void Accept()                        //To take input
+
+    public void Accept()
     {
-        int iCnt = 0;
         Scanner sobj = new Scanner(System.in);
-        System.out.println("Enter the elements of array:");
-        
-        for(iCnt = 0 ; iCnt < Arr.length ; iCnt++)
-        {
-            iSize = sobj.nextInt();
-        }
+        int i = 0 ;
 
+        System.out.println("Enter the elements of Array : ");
+
+        for(i = 0 ; i < Arr.length ; i++)
+        {
+            Arr[i] = sobj.nextInt();
+        }
     }
-    public void Display()                       //To Display Output
-    {
-        int iCnt = 0;
-        System.out.println("elements of the array are:");
-        for(iCnt = 0; iCnt < Arr.length ;iCnt++)
-        {
-            System.out.println(Arr[iCnt]);
-        }
 
+    public void Display()
+    {
+        System.out.println("elements of the array are ");
+        int i = 0 ;
+
+        for(i = 0 ; i < Arr.length ; i++)
+        {
+            System.out.println(Arr[i]);
+        }
     }
 }
 
-
-////////////////////////////////////////////////////////////
-//
-//  ENTRY POINT FUNCTION FOR THE APPLICATION
-//
-////////////////////////////////////////////////////////////
-
-class program104
+//Entry point function
+public class program104
 {
     public static void main (String A[])
     {
         ArrayX aobj1 = new ArrayX(5);
         ArrayX aobj2 = new ArrayX(7);
-        
+
     }
-}
-
-
-//End of main
-
-////////////////////////////////////////////////////////////
-//
-// Test cases succesfully handled by the application
-// Input1 : 5       Output : 
-// Input1 : 15      Output : false
-// Input1 : -28     Output : true
-// Input1 : 11      Output : false
-// Input1 : 24      Output : false
-//
-////////////////////////////////////////////////////////////
+}// End of main 
