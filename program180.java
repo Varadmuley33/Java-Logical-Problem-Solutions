@@ -1,0 +1,72 @@
+////////////////////////////////////////////////////////////////////////////////////////////////
+//
+//  File name :     program179.java
+//  Description :   
+//  Author :        Varad Nitin Muley
+//  Date :          20/11/2025
+//  Input :         6
+//  Output :        
+//       
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+/*
+    iRow = 4    iCol = 4 
+
+       a b c d 
+       a b c d 
+       a b c d 
+       a b c d 
+        
+*/
+
+
+/////////////////////////////////////////////////////////////////
+// 
+//  Required Header files
+//
+/////////////////////////////////////////////////////////////////
+import java.util.*;
+
+
+class Pattern
+{
+    public void Display(int iRow,int iCol)
+    {
+        int i = 0 ,j = 0;
+        char ch = 'a';
+ 
+        for (i = 1 ; i <= iRow ; i++)
+        {
+            ch = 'a';
+            for (j = 1 ; j <= iCol ; j++)
+            {
+                System.out.printf(ch + "\t");
+                ch++;
+            }
+            System.out.println();
+        }
+       
+        System.out.println(); 
+    }
+}
+
+class program180
+{
+    public static void main (String A[])
+    {
+        Pattern pobj = new Pattern();
+
+        Scanner sobj = new Scanner (System.in);
+
+        int iValue1 = 0 ,iValue2 = 0 ;
+
+        System.out.println("Enter the number of rows : ");
+        iValue1 = sobj.nextInt();
+
+        System.out.println("Enter the number of columns : ");
+        iValue2 = sobj.nextInt();
+
+        pobj.Display(iValue1,iValue2);
+
+    }
+}
