@@ -1,35 +1,48 @@
-
+//**************************************************************
+//  File name   : Program109.java
+//  Description : Accepts array from user, displays elements,
+//                and counts number of even elements.
+//  Author      : Varad Muley
+//**************************************************************
 
 import java.util.*;
 
+//---------------------- Class Definition ----------------------
 class ArrayX
 {
+    // Function Name : Display
+    // Description   : Displays all elements of array
     public void Display(int Brr[])
     {
         int iCnt = 0;
+
         System.out.println("Elements of array are");
-        for(iCnt = 0; iCnt<Brr.length; iCnt++)
+
+        for(iCnt = 0; iCnt < Brr.length; iCnt++)
         {
             System.out.println(Brr[iCnt]);
         }
     }
+
+    // Function Name : CountEven
+    // Description   : Counts even elements from array
     public int CountEven(int Brr[])
     {
         int iCnt = 0;
         int iCount = 0;
+
         for(iCnt = 0 ; iCnt < Brr.length ; iCnt++)
         {
-            if((Brr[iCnt]% 2) == 0)
+            if((Brr[iCnt] % 2) == 0)
             {
                 iCount++;
             }
         }
         return iCount;
     }
-
 }
 
-
+//---------------------- Entry Point ---------------------------
 class program101
 {
     public static void main(String A[])
@@ -39,6 +52,7 @@ class program101
         int iRet = 0;
 
         Scanner sobj = new Scanner(System.in);
+
         System.out.println("Enter the Size of array");
         iSize = sobj.nextInt();
 
@@ -49,22 +63,18 @@ class program101
         for(iCnt = 0 ; iCnt < Arr.length ; iCnt++)
         {
             Arr[iCnt] = sobj.nextInt();
-            
         }
 
         ArrayX aobj = new ArrayX();
+
         aobj.Display(Arr);
 
         iRet = aobj.CountEven(Arr);
 
-        System.out.println("Number of even elements :" +iRet);
-        
+        System.out.println("Number of even elements :" + iRet);
 
         aobj = null;
         Arr = null;
         sobj = null;
-
     }
 }
-
-
