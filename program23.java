@@ -26,7 +26,7 @@ class program23
 //
 /////////////////////////////////////////////////////////////////
 
-    public static int Reverse(int iNo)
+    public static int Reverse(int iNo)   
     {
         int iDigit = 0, iRev = 0;
 
