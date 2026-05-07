@@ -44,7 +44,7 @@ class program26
 
     public static void main(String args[])
     {
-        int iCount = 0;
+        int iCount = 0;     
 
         Scanner sobj = new Scanner(System.in);
 
