@@ -9,3 +9,4 @@ class Program198
         obj.delete();
     }
 }
+   
