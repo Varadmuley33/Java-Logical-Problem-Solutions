@@ -2,7 +2,7 @@
 //
 //  File name :     Program128.java
 //  Description :   Calculates summation of array elements using loop.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          13/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
