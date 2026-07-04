@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //  File name :     Program126.java
-//  Description :   Prints values of an array using a loop.
+//  Description :   Prints values of an array using a loop.   
 //  Author :        Varad Nitin Muley
 //  Date :          13/11/2025
 //
