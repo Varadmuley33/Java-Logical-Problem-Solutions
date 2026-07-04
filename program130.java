@@ -2,7 +2,7 @@
 //
 //  File name :     Program130.java
 //  Description :   Counts odd numbers from an array.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley  
 //  Date :          13/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
