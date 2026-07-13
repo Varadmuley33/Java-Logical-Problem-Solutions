@@ -11,7 +11,7 @@
 
 /*
   input : 5
-  Output : a b c d e 
+  Output : a b c d e
         
 */
 
