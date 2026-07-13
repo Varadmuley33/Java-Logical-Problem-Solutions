@@ -11,7 +11,7 @@
 
 /*
   input :   8
-  Output :  z y x w v u t s 
+  Output :  z y x w v u t s
   Index :   1 2 3 4 5 6 7 8 
 
         
