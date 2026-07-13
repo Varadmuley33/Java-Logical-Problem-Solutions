@@ -11,7 +11,7 @@
 
 /*
   input : 8
-  Output :  1 A 3 B 5 C 7 D 
+  Output :  1 A 3 B 5 C 7 D
   Index :   1 2 3 4 5 6 7 8 
 
         
