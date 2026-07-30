@@ -4,7 +4,7 @@
 //  Description :   Calculates and displays the average of all elements
 //                  from the entered array.
 //  Author :        Varad Nitin Muley
-//  Date :          13/11/2025
+//  Date :          13/11/2025  
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
