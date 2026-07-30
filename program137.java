@@ -2,7 +2,7 @@
 //
 //  File name :     Program137.java
 //  Description :   Searches a user entered number from the array using
-//                  Linear Search technique.
+//                  Linear Search technique.   
 //  Author :        Varad Nitin Muley
 //  Date :          14/11/2025
 //
