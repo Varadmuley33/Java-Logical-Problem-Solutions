@@ -20,7 +20,7 @@
 import java.util.*;
 
 class pattern
-{
+{   
     public void Display(int iNo)
     {
         int iCnt = 0 ;
