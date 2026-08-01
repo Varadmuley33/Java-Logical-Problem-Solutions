@@ -1,4 +1,4 @@
-
+   
 class pattern
 {
     public void Display()
