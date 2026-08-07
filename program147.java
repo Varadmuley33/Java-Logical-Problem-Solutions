@@ -3,7 +3,7 @@
 //  File name :     Program147.java
 //  Description :   Finds and displays the minimum number from the
 //                  entered array elements.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley  
 //  Date :          14/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
