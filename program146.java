@@ -2,7 +2,7 @@
 //
 //  File name :     Program146.java
 //  Description :   Finds and displays the maximum number from the
-//                  entered array elements using combined initialization.
+//                  entered array elements using combined initialization.   
 //  Author :        Varad Nitin Muley
 //  Date :          14/11/2025
 //
