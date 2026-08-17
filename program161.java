@@ -2,7 +2,7 @@
 //
 //  File name :     program153.c
 //  Description :   
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley  
 //  Date :          20/11/2025
 //  Input :         5 
 //  Output :        1 2 3 4 5 
