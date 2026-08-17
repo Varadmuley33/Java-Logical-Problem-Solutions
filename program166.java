@@ -3,7 +3,7 @@
 //  File name :     program166.java
 //  Description :   
 //  Author :        Varad Nitin Muley
-//  Date :          20/11/2025
+//  Date :          20/11/2025   
 //  Input :         6
 //  Output :        
 //       
