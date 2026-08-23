@@ -3,7 +3,7 @@
 //  File name :     program95.java
 //  Description :   take input of array as dynamically
 //  Input :         Integer 
-//  Output :        Integer
+//  Output :        Integer  
 //  Author :        Varad Nitin Muley
 //  Date :          07/11/2025
 //
