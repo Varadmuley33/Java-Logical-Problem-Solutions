@@ -3,7 +3,7 @@
 //  File name :     program97.java
 //  Description :   Create another function to write logic
 //  Author :        Varad Nitin Muley
-//  Date :          07/11/2025
+//  Date :          07/11/2025   
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
