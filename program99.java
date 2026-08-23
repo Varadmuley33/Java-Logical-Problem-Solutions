@@ -2,7 +2,7 @@
 //
 //  File name :     program99.java
 //  Description :   Take input from user 
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley  
 //  Date :          07/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
