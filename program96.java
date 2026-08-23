@@ -3,7 +3,7 @@
 //  File name :     program96.java
 //  Description :   Use Member by member initialization
 //  Input :         Integer 
-//  Output :        Integer
+//  Output :        Integer   
 //  Author :        Varad Nitin Muley
 //  Date :          07/11/2025
 //
