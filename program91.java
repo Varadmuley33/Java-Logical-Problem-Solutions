@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Digit
+class Digit  
 {
     public int SumDigits(int iNo)
     {
