@@ -3,7 +3,7 @@
 //  File name :     Program132.java
 //  Description :   Calculates and displays the average of all entered
 //                  array elements using floating point division.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley  
 //  Date :          13/11/2025
 //  
 ////////////////////////////////////////////////////////////////////////////////////////////////
