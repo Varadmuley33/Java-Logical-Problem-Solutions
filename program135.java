@@ -3,7 +3,7 @@
 //  File name :     Program135.java
 //  Description :   Counts and displays the frequency of number 11
 //                  from the entered array elements.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley  
 //  Date :          14/11/2025   
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
