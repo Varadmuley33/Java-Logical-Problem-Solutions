@@ -4,7 +4,7 @@
 //  Description :   Searches a user entered number from the array using
 //                  Linear Search and loop index checking.
 //  Author :        Varad Nitin Muley    
-//  Date :          14/11/2025
+//  Date :          14/11/2025  
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
