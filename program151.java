@@ -1,7 +1,7 @@
    
 class pattern
 {
-    public void Display()
+    public void Display()   
     {
         System.out.println("Inside display");
         // Logic of pattern printing
