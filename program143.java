@@ -3,7 +3,7 @@
 //  File name :     Program143.java
 //  Description :   Searches a user entered number from the array using
 //                  Linear Search with a boolean flag variable.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          14/11/2025  
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
