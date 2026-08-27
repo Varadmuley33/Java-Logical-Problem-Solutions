@@ -3,7 +3,7 @@
 //  File name :     Program148.java
 //  Description :   Increments each element of the array by one and
 //                  displays the updated array elements.  
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          14/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
