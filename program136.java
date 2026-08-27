@@ -3,7 +3,7 @@
 //  File name :     Program136.java
 //  Description :   Counts and displays the frequency of a user entered
 //                  number from the array elements.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley  
 //  Date :          14/11/2025   
 //   
 ////////////////////////////////////////////////////////////////////////////////////////////////
