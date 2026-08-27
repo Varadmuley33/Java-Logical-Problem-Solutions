@@ -3,7 +3,7 @@
 //  File name :     Program145.java
 //  Description :   Finds and displays the maximum number from the
 //                  entered array elements using first element initialization.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          14/11/2025
 //     
 ////////////////////////////////////////////////////////////////////////////////////////////////
