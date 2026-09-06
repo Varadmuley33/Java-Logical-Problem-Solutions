@@ -2,7 +2,7 @@
 //
 //  File name :     program105.java
 //  Description :   Design the class using OOP design
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          07/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
