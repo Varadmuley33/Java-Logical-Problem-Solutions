@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //  File name :     program108.java
-//  Description :   Design the class using OOP design
+//  Description :   Design the class using OOP design   
 //  Author :        Varad Nitin Muley
 //  Date :          07/11/2025
 //
