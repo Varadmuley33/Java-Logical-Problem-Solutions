@@ -1,6 +1,6 @@
 //**************************************************************
 //  File name   : Program109.java
-//  Description : Accepts array from user, displays elements,
+//  Description : Accepts array from user, displays elements,   
 //                and counts number of even elements.
 //  Author      : Varad Muley
 //**************************************************************
