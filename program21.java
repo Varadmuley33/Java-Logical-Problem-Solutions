@@ -3,7 +3,7 @@
 //  File name :     program21.java
 //  Description :   Demonstrates best approach for modular programming by
 //                  defining a separate function and calling it through
-//                  an object-like structure in Java.
+//                  an object-like structure in Java.  
 //  Author :        Varad Nitin Muley
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
