@@ -3,7 +3,7 @@
 //  File name :     program27.java
 //  Description :   Demonstrates dynamic message printing with validation
 //                  by accepting frequency from the user and applying a
-//                  filter for negative input.
+//                  filter for negative input.    
 //  Author :        Varad Nitin Muley
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
