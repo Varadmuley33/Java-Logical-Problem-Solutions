@@ -3,7 +3,7 @@
 //  File name :     program28.java
 //  Description :   Displays numbers from 1 to 5 sequentially using a
 //                  simple function in Java.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
