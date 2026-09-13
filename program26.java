@@ -2,7 +2,7 @@
 //
 //  File name :     program26.java
 //  Description :   Demonstrates dynamic function usage in Java by printing
-//                  a message based on user-entered frequency.
+//                  a message based on user-entered frequency.   
 //  Author :        Varad Nitin Muley
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
