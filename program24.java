@@ -2,7 +2,7 @@
 //
 //  File name :     program24.java
 //  Description :   Demonstrates looping inside a function by printing
-//                  a message four times using a for loop in Java.
+//                  a message four times using a for loop in Java.   
 //  Author :        Varad Nitin Muley
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
