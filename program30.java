@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //  File name :     program30.java
-//  Description :   Demonstrates displaying numbers from 1 to 5 using
+//  Description :   Demonstrates displaying numbers from 1 to 5 using  
 //                  a while loop inside a function in Java.
 //  Author :        Varad Nitin Muley
 //
