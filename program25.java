@@ -2,7 +2,7 @@
 //
 //  File name :     program25.java
 //  Description :   Demonstrates static function usage in Java by printing
-//                  a message four times using a for loop.
+//                  a message four times using a for loop.  
 //  Author :        Varad Nitin Muley
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
