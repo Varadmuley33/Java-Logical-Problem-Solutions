@@ -2,7 +2,7 @@
 //
 //  File name :     program22.java
 //  Description :   Demonstrates how to count the number of digits in a
-//                  user-entered integer using looping logic.
+//                  user-entered integer using looping logic.   
 //  Author :        Varad Nitin Muley
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
