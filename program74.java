@@ -4,7 +4,7 @@ import java.io.*;
 //
 //  Class Name  : program74
 //  Description : It is used to display factors of a given number using BufferedReader
-//  Author      : Varad Nitin Muley
+//  Author      : Varad Nitin Muley   
 //  Date        : 09/10/2025
 //
 /////////////////////////////////////////////////////////////////
