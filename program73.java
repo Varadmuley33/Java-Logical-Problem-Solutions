@@ -1,7 +1,7 @@
 import java.util.*;
 
 /////////////////////////////////////////////////////////////////
-//
+//    
 //  Class Name : program73
 //  Description : It is used to display factors of a given number (up to iNo/2)
 //  Author :      Varad Nitin Muley
