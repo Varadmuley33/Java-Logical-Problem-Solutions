@@ -3,7 +3,7 @@
 //  File name :     Program33.java
 //  Description :   Displays pattern 1 * 2 * 3 * 4 * 5 * using a while
 //                  loop inside a function in Java.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          20/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
