@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //  File name :     Program32.java
-//  Description :   Displays a sequence of numbers followed by '*' symbol
+//  Description :   Displays a sequence of numbers followed by '*' symbol   
 //                  in a fixed pattern using a simple function in Java.
 //  Author :        Varad Nitin Muley
 //  Date :          20/11/2025
