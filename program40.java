@@ -3,7 +3,7 @@
 //  File name :     Program40.java
 //  Description :   Displays even numbers from 2 up to the user-entered
 //                  value using a step-by-2 for loop.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          20/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
