@@ -3,7 +3,7 @@
 //  File name :     Program31.java
 //  Description :   Displays five asterisks (*) using a for loop inside
 //                  a function in Java.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley  
 //  Date :          20/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
