@@ -2,7 +2,7 @@
 //
 //  File name :     Program37.java
 //  Description :   Displays numbers from 1 to user-entered frequency
-//                  using a for loop inside a function in Java.
+//                  using a for loop inside a function in Java. 
 //  Author :        Varad Nitin Muley
 //  Date :          20/11/2025
 //
