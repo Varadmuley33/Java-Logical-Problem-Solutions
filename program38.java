@@ -3,7 +3,7 @@
 //  File name :     Program38.java
 //  Description :   Displays numbers in reverse order starting from the
 //                  user-entered value down to 1 using a for loop.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley  
 //  Date :          20/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
