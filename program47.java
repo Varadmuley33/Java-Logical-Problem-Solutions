@@ -3,7 +3,7 @@
 //  File name :     Program47.java
 //  Description :   Displays all factors of a user-entered number using
 //                  an efficient loop-based approach.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley  
 //  Date :          21/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
