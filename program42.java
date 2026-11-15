@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //  File name :     Program42.java
-//  Description :   Displays even numbers from 1 to the user-entered limit
+//  Description :   Displays even numbers from 1 to the user-entered limit  
 //                  using conditional checking inside a loop.
 //  Author :        Varad Nitin Muley
 //  Date :          21/11/2025
