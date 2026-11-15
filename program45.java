@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //  File name :     Program45.java
-//  Description :   Displays the factors of number 6 using multiple
+//  Description :   Displays the factors of number 6 using multiple  
 //                  conditional checks inside a function.
 //  Author :        Varad Nitin Muley
 //  Date :          21/11/2025
