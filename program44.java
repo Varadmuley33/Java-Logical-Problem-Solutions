@@ -4,7 +4,7 @@
 //  Description :   Checks whether the first number is completely divisible
 //                  by the second number using a user-defined function.
 //  Author :        Varad Nitin Muley
-//  Date :          21/11/2025
+//  Date :          21/11/2025   
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
