@@ -3,7 +3,7 @@
 //  File name :     Program49.java
 //  Description :   Accepts a number from the user and displays all its
 //                  non-factors using a loop. Handles negative input.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          21/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
