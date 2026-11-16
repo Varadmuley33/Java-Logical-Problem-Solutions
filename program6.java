@@ -2,7 +2,7 @@
 //
 //  File name :     program6.java
 //  Description :   Accepts two integers from the user, performs addition
-//                  using a user-defined function, and displays the result.
+//                  using a user-defined function, and displays the result.   
 //  Author :        Varad Nitin Muley
 //  Date :          18/11/2025
 //
