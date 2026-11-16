@@ -5,7 +5,7 @@
 //                  accepts a number from the user and prints each digit along
 //                  with the updated value of the number after removing digits.
 //  Author :        Varad Nitin Muley
-//  Date :          22/11/2025
+//  Date :          22/11/2025   
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
