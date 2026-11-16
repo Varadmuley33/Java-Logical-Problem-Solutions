@@ -2,7 +2,7 @@
 //
 //  File name :     Program56.java
 //  Description :   Optimized prime-checking program using an alternate
-//                  approach where the loop index determines primality.
+//                  approach where the loop index determines primality.   
 //  Author :        Varad Nitin Muley
 //  Date :          22/11/2025
 //
