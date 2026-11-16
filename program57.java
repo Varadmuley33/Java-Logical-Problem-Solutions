@@ -4,7 +4,7 @@
 //  Description :   Checks whether a given number is prime using a
 //                  boolean flag and early loop termination.
 //  Author :        Varad Nitin Muley
-//  Date :          22/11/2025
+//  Date :          22/11/2025   
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
