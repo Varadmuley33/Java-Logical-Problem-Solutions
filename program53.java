@@ -3,7 +3,7 @@
 //  File name :     Program53.java
 //  Description :   Counts and displays the total number of factors and
 //                  non-factors of a given number.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          22/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
