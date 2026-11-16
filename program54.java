@@ -3,7 +3,7 @@
 //  File name :     Program54.java
 //  Description :   Checks whether the given number is prime or not
 //                  using divisor counting technique.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          22/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
