@@ -3,7 +3,7 @@ import java.util.*;
 class Digit  
 {
     public int SumDigits(int iNo)
-    {
+    {   
         int iDigit = 0 ;
         int iSum = 0 ;
 
