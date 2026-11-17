@@ -3,7 +3,7 @@
 //  File name :     Program83.java
 //  Description :   Accepts a number from the user and checks whether
 //                  the given number is a Perfect Number or not.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley    
 //  Date :          02/03/2026
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
