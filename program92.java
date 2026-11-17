@@ -2,7 +2,7 @@
 //
 //  File name :     program92.java
 //  Description :   Display array on screen using inbuilt method
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          07/11/2025  
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
