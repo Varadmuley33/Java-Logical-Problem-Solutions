@@ -2,7 +2,7 @@
 //
 //  File name :     Program84.java
 //  Description :   Accepts a number from the user and checks whether
-//                  the given number is a Perfect Number or not using
+//                  the given number is a Perfect Number or not using   
 //                  an optimized loop condition.
 //  Author :        Varad Nitin Muley
 //  Date :          02/03/2026
