@@ -2,7 +2,7 @@
 //
 //  File name :     Program85.java
 //  Description :   Accepts a number from the user and checks whether
-//                  the given number is a Perfect Number or not using
+//                  the given number is a Perfect Number or not using   
 //                  a reverse loop for factor calculation.
 //  Author :        Varad Nitin Muley
 //  Date :          02/03/2026
