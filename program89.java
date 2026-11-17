@@ -8,7 +8,7 @@ class Number
         long iFact = 1;   //Important
 
         if(iNo < 0)
-        {
+        {    
             iNo = -iNo;
         }
 
