@@ -6,7 +6,7 @@ class Digit
     {
         int iDigit = 0 ;
 
-        while(iNo != 0)
+        while(iNo != 0)   
         {
             iDigit = iNo % 10;
             System.out.println(iDigit);
