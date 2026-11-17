@@ -3,7 +3,7 @@
 //  File name :     program94.java
 //  Description :   Display array on screen using iteration 
 //  Input :         Integer 
-//  Output :        Integer
+//  Output :        Integer   
 //  Author :        Varad Nitin Muley
 //  Date :          07/11/2025
 //   
